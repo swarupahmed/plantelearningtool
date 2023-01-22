@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"server":"node -r dotenv/config build",
+		"server": "node -r dotenv/config build",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
@@ -11,7 +11,6 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto":"^1.0.2",
 		"@sveltejs/adapter-node": "^1.1.4",
 		"@sveltejs/kit": "^1.0.0",
 		"svelte": "^3.54.0",
@@ -21,6 +20,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-auto": "^1.0.2",
 		"docxyz": "^0.2.1",
 		"dotenv": "^16.0.3",
 		"fuzzy-search": "^3.2.1",
