@@ -1,49 +1,49 @@
-{}
-{}
+// {}
+// {}
 
 
 
-{
-    "id":"ashseora",
-    "name":{
-        "commonName":"Ashseora",
-        "englishName":"Orangeberry",
-        "scientificName":"Glycosmis pentaphylla"
-    },
-    "taxonomy":[
-        ["Kingdom","Plantae"],
-        ["Phylum","Tracheophyta"],
-        ["Class","Dicotyledon"],
-        .............
-    ],
-    "morphology":[
-        ["Habit","A large evergreen shrub or small tree"],
-        ["Root","Tap, branched"],
-        ["Stem","Erect, woody, solid, cylindrical, branched, glabrous."],
-        .............
-    ],
-    "reference":["Google","Wikipedia.com"],
-    "images":["1.webp","IMG_8601.webp","IMG_8603.webp","IMG_8605.webp"]
-}
+// {
+//     "id":"ashseora",
+//     "name":{
+//         "commonName":"Ashseora",
+//         "englishName":"Orangeberry",
+//         "scientificName":"Glycosmis pentaphylla"
+//     },
+//     "taxonomy":[
+//         ["Kingdom","Plantae"],
+//         ["Phylum","Tracheophyta"],
+//         ["Class","Dicotyledon"],
+//         .............
+//     ],
+//     "morphology":[
+//         ["Habit","A large evergreen shrub or small tree"],
+//         ["Root","Tap, branched"],
+//         ["Stem","Erect, woody, solid, cylindrical, branched, glabrous."],
+//         .............
+//     ],
+//     "reference":["Google","Wikipedia.com"],
+//     "images":["1.webp","IMG_8601.webp","IMG_8603.webp","IMG_8605.webp"]
+// }
 
 
 
 
 
-[
-    {
-        "id":"ornamental_plants",
-        "title":"Ornamental Plants",
-        "plants":[
-            {"title":"ashseora","thumbnail":"1.webp"},
-            ................
-            ................
-        ],
-        "families":["Rutaceae"],"thumbnail":"ornamental_plants.jpg"
-    }
-    ...............
-    ...............
-]
+// [
+//     {
+//         "id":"ornamental_plants",
+//         "title":"Ornamental Plants",
+//         "plants":[
+//             {"title":"ashseora","thumbnail":"1.webp"},
+//             ................
+//             ................
+//         ],
+//         "families":["Rutaceae"],"thumbnail":"ornamental_plants.jpg"
+//     }
+//     ...............
+//     ...............
+// ]
 
 
 
